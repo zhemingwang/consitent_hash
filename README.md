@@ -135,7 +135,7 @@ A curated list of amazingly awesome redis and redis ecosystem resources. Inspire
 
 ---
 ## Most Stars Project on Github
-* [resque](https://github.com/resque/resque) - Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.
+* [Sidekiq](https://sidekiq.org/) - Simple, efficient message processing for your Ruby application. (Ruby)
 * [node_redis](https://github.com/mranney/node_redis) - redis client for node
 * [twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis
 * [redis-py](https://github.com/andymccurdy/redis-py) - Redis Python Client
@@ -151,6 +151,7 @@ A curated list of amazingly awesome redis and redis ecosystem resources. Inspire
 
 ---
 ## Redis based Job Queues
+* [Sidekiq](https://sidekiq.org/) - Simple, efficient message processing for your Ruby application. (Ruby)
 * [rq](https://github.com/nvie/rq) - Minimalistic Python task queue. Supports only Redis. (Python)
 * [restmq](https://github.com/gleicon/restmq) - REST/JSON/HTTP based message queue
 * [resque](https://github.com/resque/resque) - Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later. (Ruby)
@@ -189,7 +190,6 @@ A curated list of amazingly awesome redis and redis ecosystem resources. Inspire
 * [Soulmate](https://github.com/seatgeek/soulmate) - Redis-backed service for fast autocompleting. (Ruby)
 * [Redis_failover](https://github.com/ryanlecompte/redis_failover) - Redis Failover is a ZooKeeper-based automatic master/slave failover solution for Ruby. (Ruby)
 * [Redis-dump](https://github.com/delano/redis-dump) - Backup and restore your Redis data to and from JSON. Warning: alpha code. (Ruby)
-* [Sidekiq](http://mperham.github.com/sidekiq/) - Simple, efficient message processing for your Rails 3 application. (Ruby)
 * [Soulmate](https://github.com/seatgeek/soulmate) - Redis-backed service for fast autocompleting. (Ruby)
 * [Omhiredis](http://www.rsyslog.com/doc/build_from_repo.html) - redis output plugin for rsyslog (rsyslog dev, and rsyslog head). (C)
 * [Mod_redis](https://github.com/sneakybeaky/mod_redis) - An Apache HTTPD module for speaking to redis via HTTP (C)
